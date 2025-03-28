@@ -1,1 +1,1 @@
-const openWeatherMapApiKey = '52b2031ba13a29f59cef870a13f7a6b2';
+const openWeatherMapApiKey = 'YOUR_TOKEN';
